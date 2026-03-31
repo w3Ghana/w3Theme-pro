@@ -1,1 +1,1 @@
-w3Ghana - Theme application.
+w3Ghana - Theme Application.
